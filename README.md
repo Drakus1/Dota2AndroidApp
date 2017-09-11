@@ -1,6 +1,6 @@
 # Dota2AndroidApp
 
-This is a community project born from this Reddit Thread : https://redd.it/6za0n3
+This is a community project born from this [Reddit Thread](https://redd.it/6za0n3)
 
 &nbsp;
 
